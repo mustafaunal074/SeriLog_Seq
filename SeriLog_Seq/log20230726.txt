@@ -1,0 +1,77 @@
+2023-07-26 15:05:13.315 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-26 15:05:13.452 +03:00 [INF] Hosting environment: Development
+2023-07-26 15:05:13.457 +03:00 [INF] Content root path: C:\Users\mustafa.unal\source\repos\BP\SeriLog_Seq\SeriLog_Seq
+2023-07-26 15:05:15.241 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - SeriLog_Seq.Controllers.HomeController.Index (SeriLog_Seq). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-07-26 15:06:08.163 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-26 15:06:08.353 +03:00 [INF] Hosting environment: Development
+2023-07-26 15:06:08.381 +03:00 [INF] Content root path: C:\Users\mustafa.unal\source\repos\BP\SeriLog_Seq\SeriLog_Seq
+2023-07-26 15:07:29.371 +03:00 [INF] Home index tetiklenmiştir.
+2023-07-26 15:08:07.345 +03:00 [INF] Home index tetiklenmiştir.
+2023-07-26 15:09:14.286 +03:00 [INF] Home index tetiklenmiştir.
+2023-07-26 15:15:28.571 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-26 15:15:28.689 +03:00 [INF] Hosting environment: Development
+2023-07-26 15:15:28.694 +03:00 [INF] Content root path: C:\Users\mustafa.unal\source\repos\BP\SeriLog_Seq\SeriLog_Seq
+2023-07-26 15:15:51.422 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 15:15:51.430 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 15:31:50.707 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-26 15:31:50.967 +03:00 [INF] Hosting environment: Development
+2023-07-26 15:31:51.030 +03:00 [INF] Content root path: C:\Users\mustafa.unal\source\repos\BP\SeriLog_Seq\SeriLog_Seq
+2023-07-26 15:31:51.338 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 15:31:51.391 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:09.425 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-26 16:05:09.615 +03:00 [INF] Hosting environment: Development
+2023-07-26 16:05:09.721 +03:00 [INF] Content root path: C:\Users\mustafa.unal\source\repos\BP\SeriLog_Seq\SeriLog_Seq
+2023-07-26 16:05:20.250 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:20.263 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:20.270 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:20.282 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:22.443 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.446 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.448 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:22.451 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:22.580 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.583 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.589 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:22.594 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:22.718 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.721 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.726 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:22.728 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:22.850 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.854 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:22.860 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:22.863 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:22.995 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.008 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.012 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:23.014 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:23.166 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.175 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.178 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:23.180 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:23.327 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.329 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.332 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:23.334 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:23.470 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.475 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.479 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:23.483 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:23.624 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.636 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.645 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:23.648 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:23.768 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.771 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.774 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:23.778 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
+2023-07-26 16:05:23.924 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.928 +03:00 [INF] Selam, millet! değeri loglandı. Hello, guys!
+2023-07-26 16:05:23.930 +03:00 [INF] { Name = Example, Number = 12345 } değeri loglandı. { Name = Example 2, Number = 54321 }
+2023-07-26 16:05:23.933 +03:00 [INF] {"Name":"Example","Number":12345} değeri loglandı. {"Name":"Example 2","Number":54321}
